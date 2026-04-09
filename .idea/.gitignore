@@ -1,0 +1,14 @@
+# Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Android
+.gradle/
+local.properties
+*.iml
+.idea/
+
+# Misc
+*.log
